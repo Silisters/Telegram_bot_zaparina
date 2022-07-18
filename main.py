@@ -37,7 +37,7 @@ for tmp_info_weather in first_week_weather:
     needed_info_from_weather_2.append(needed_info_from_weather)
     needed_info_from_weather = []
     print(needed_info_from_weather_2[value_list])
-    value_list = value_list+2
+    value_list = value_list+1
     '''
     Цикл достает нужные данные по погоде и сохраняет их в список словарей needed_info_from_weather_2
     '''
